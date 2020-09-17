@@ -44,3 +44,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+src/ng-tutorial1.code-workspace
+src/app/app.component.html.old
